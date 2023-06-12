@@ -1,2 +1,2 @@
 # GeronimoApp
-An app I made for a high school project showcasing the impact of Geronimo 
+An iOS app I made with swift and UIKit for a high school history project showcasing the impact of Geronimo.
